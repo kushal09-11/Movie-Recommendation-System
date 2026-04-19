@@ -1,0 +1,20 @@
+
+> movie-recommendation-frontend@1.0.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+- Environments: .env.local
+✓ Ready in 556ms
+Creating turbopack project {
+  dir: 'C:\\Users\\saiku\\OneDrive\\Desktop\\Coding\\DM project\\backend\\frontend',
+  testMode: true
+}
+
+○ Compiling / ...
+ GET / 200 in 4.9s (next.js: 4.5s, application-code: 435ms)
+ GET / 200 in 128ms (next.js: 10ms, application-code: 118ms)
+ GET /recommend 200 in 768ms (next.js: 683ms, application-code: 85ms)
+ GET /recommend 200 in 125ms (next.js: 18ms, application-code: 106ms)
+ GET / 200 in 110ms (next.js: 20ms, application-code: 90ms)
